@@ -1,0 +1,23 @@
+{
+  "name": "retrogaming-tools",
+  "version": "1.0.0",
+  "description": "## IMG2TILED",
+  "main": "img2tiled.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heibalvin/retrogaming-tools.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heibalvin/retrogaming-tools/issues"
+  },
+  "homepage": "https://github.com/heibalvin/retrogaming-tools#readme",
+  "dependencies": {
+    "jimp": "^0.16.1"
+  }
+}
