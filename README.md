@@ -9,3 +9,4 @@ Usage: `node img2tiled.js filename tilewidth tileheight`
 Example: 
  * `node img2tiled.js samples/sorcery-village-1.png 8 8`
  * `node img2tiled.js samples/pacman-maze.png 8 8`
+ * `node img2tiled.js samples/robocop-stage-1.png 8 8`
