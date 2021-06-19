@@ -1,0 +1,13 @@
+{
+    "firstgid": 1,
+    "name": "test-tileset-output.png",
+    "tilewidth": 8,
+    "tileheight": 8,
+    "margin": 0,
+    "spacing": 0,
+    "image": "test-tileset-output.png",
+    "imagewidth": 64,
+    "imageheight": 64,
+    "columns": 16,
+    "tilecount": 44
+}

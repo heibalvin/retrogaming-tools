@@ -34,8 +34,8 @@ Jimp.read(name + '.png')
         }
         
         /* tiledSet update */
-        let tilesetImageWidth = 512
-        let tilesetImageHeight = 512
+        let tilesetImageWidth = 64
+        let tilesetImageHeight = 64
         var tiledSet = {
             firstgid: 1,
             name: name.split('/').pop() + '-tileset.png',
@@ -126,7 +126,7 @@ Jimp.read(name + '.png')
                     id++
                 }
             }
-            img.write(name + '-test.png')
+            img.write(name + '-validate.png')
         })
     })
     .catch(err => {

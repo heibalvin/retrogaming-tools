@@ -10,3 +10,9 @@ Example:
  * `node img2tiled.js samples/sorcery-village-1.png 8 8`
  * `node img2tiled.js samples/pacman-maze.png 8 8`
  * `node img2tiled.js samples/robocop-stage-1.png 8 8`
+
+## Unit Testing
+
+Usage: `npm test`
+
+Unit Test code under `./test/test.js`
